@@ -1,0 +1,7 @@
+127.0.0.1 - - [07/Feb/2009:12:26:45 -0500] "GET / HTTP/1.1" 200 42 "" "curl/7.16.3 (powerpc-apple-darwin9.0) libcurl/7.16.3 OpenSSL/0.9.7l zlib/1.2.3"
+127.0.0.1 - - [07/Feb/2009:12:36:45 -0500] "GET / HTTP/1.1" 500 995 "" "curl/7.16.3 (powerpc-apple-darwin9.0) libcurl/7.16.3 OpenSSL/0.9.7l zlib/1.2.3"
+127.0.0.1 - - [07/Feb/2009:12:39:46 -0500] "GET / HTTP/1.1" 200 42 "" "curl/7.16.3 (powerpc-apple-darwin9.0) libcurl/7.16.3 OpenSSL/0.9.7l zlib/1.2.3"
+127.0.0.1 - - [07/Feb/2009:12:45:35 -0500] "GET / HTTP/1.1" 200 16 "" "curl/7.16.3 (powerpc-apple-darwin9.0) libcurl/7.16.3 OpenSSL/0.9.7l zlib/1.2.3"
+127.0.0.1 - - [07/Feb/2009:12:57:06 -0500] "GET / HTTP/1.1" 500 499 "" "curl/7.16.3 (powerpc-apple-darwin9.0) libcurl/7.16.3 OpenSSL/0.9.7l zlib/1.2.3"
+127.0.0.1 - - [07/Feb/2009:12:57:27 -0500] "GET / HTTP/1.1" 404 193 "" "curl/7.16.3 (powerpc-apple-darwin9.0) libcurl/7.16.3 OpenSSL/0.9.7l zlib/1.2.3"
+127.0.0.1 - - [07/Feb/2009:12:58:47 -0500] "GET / HTTP/1.1" 404 193 "" "curl/7.16.3 (powerpc-apple-darwin9.0) libcurl/7.16.3 OpenSSL/0.9.7l zlib/1.2.3"
